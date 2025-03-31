@@ -15,7 +15,7 @@ This project implements an end-to-end pipeline for large-scale olive tree detect
  - Memory-efficient processing chain for potential national-scale deployment
 
 The methodology has been successfully tested in the BAT (Barletta-Andria-Trani) and northern Bari areas, but it currently shows limitations in Foggia and Salento due to insufficient training data representation.
-![Esempio di rilevamento ulivi](assets/sample_detection.jpg) <!-- Aggiungi una foto esemplificativa se disponibile -->
+![Esempio di rilevamento ulivi](assets/YOLO_BAT.png) <!-- Aggiungi una foto esemplificativa se disponibile -->
 
 Interactive Results
 Detection results for northern Bari are available on Google Earth Engine:
