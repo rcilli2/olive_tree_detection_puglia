@@ -27,7 +27,7 @@ Technical Details
 - Spatial resolution: 0.2m/px (commercial satellite data)
 - Tile size: 1024×1024 px (≈200m×200m)
 - Model: Custom-trained YOLO11n
-- Performance (BAT area):
+- Performance (Barletta-Andria-Trani province):
     - Precision: 93%
     - Recall: 89%
     - mAP@0.5: 93%
