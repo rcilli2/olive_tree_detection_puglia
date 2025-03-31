@@ -40,6 +40,3 @@ Performance degradation occurs in: (1) Foggia/Salento regions (limited training 
 📄 A paper describing the methodology is under review:
 
 "Automated Olive Grove Classification and Tree Counting from Very High Resolution Aerial Imagery using Deep Learning", Pantaleo, E. et al. (under review)
-
-# olive_tree_detection_puglia
-# olive_tree_detection_puglia
