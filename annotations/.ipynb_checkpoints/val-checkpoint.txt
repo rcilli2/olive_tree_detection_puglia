@@ -1,0 +1,11 @@
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/298.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/179.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/62.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/556.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/375.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/343.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/77.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/125.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/499.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/186.tif
+/lustrehome/cilli/deepforest/YOLOv11_tree_detector/images/259.tif

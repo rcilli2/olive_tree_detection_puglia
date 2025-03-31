@@ -1,0 +1,5 @@
+train: /lustrehome/cilli/deepforest/YOLOv11_tree_detector/annotations/train.txt
+val: /lustrehome/cilli/deepforest/YOLOv11_tree_detector/annotations/val.txt
+
+names:
+  0: ulivo

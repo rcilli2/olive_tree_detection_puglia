@@ -1,0 +1,6 @@
+path: /lustrehome/cilli/deepforest/YOLOv11_tree_detector/
+train: annotations/images/train
+val: annotations/images/val
+
+names:
+  0: ulivo
